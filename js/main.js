@@ -11,7 +11,7 @@ const laws = [
     },
     {
         "content": "Copyright Designs and Patents Act",
-        "url": "/Data-Protection-Act-(2018)/index.html",
+        "url": "/CDP-1988-(Oli)/index.html",
     },
     {
         "content": "Communications Act",
@@ -19,7 +19,7 @@ const laws = [
     },
     {
         "content": "Regulation of Investigatory Powers Act",
-        "url": "RIPA(2000)-IPA(2016)/indexnew.html",
+        "url": "/RIPA(2000)-IPA(2016)/indexnew.html",
     },
 ]
 
